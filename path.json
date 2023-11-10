@@ -1,0 +1,10 @@
+{
+    "BC_Textbox": "/html/body/div[1]/div/div[2]/div/div/div[1]/div/main/div/div/div/div[3]/div/div/div/div[3]/div[1]/div/div/div[3]/div/div/div[2]/section/div/div/div[2]/div/div/div[2]/div/div/div/div/section/div[1]/div/textarea",
+    "Severity_Check": "/html/body/div[1]/div/div[2]/div/div/div[1]/div/main/div/div/div/div[3]/div/div/div/div[3]/div[1]/div/div/div[1]/div/div/div[2]/div/div/div/div/div/div/div/div[1]/div/div[2]/div/div/div[2]/div/div/div/div/div/div/div[1]/button",
+"Create_button": "/html/body/div[1]/div/div[2]/div/div/div[1]/div/main/div/div/div/div[3]/div/div/div/div[3]/div[2]/div/div/div/div/div[2]/button",
+"Category": "/html/body/div[1]/div/div[2]/div/div/div[1]/div/main/div/div/div/div[3]/div/div/div/div[3]/div[1]/div/div/div[1]/div/div/div[2]/div/div/div/div/div/div/div/div[1]/div/div[1]/div/section/div/div[2]/div[1]/div/div[1]/div/div[1]/div/div[2]/div/div/div/div/div/div/div[1]/button",
+"Type": "/html/body/div[1]/div/div[2]/div/div/div/div/main/div/div/div/div[3]/div/div/div/div[3]/div[1]/div/div/div[1]/div/div/div[2]/div/div/div/div/div/div/div/div[1]/div/div[1]/div/section/div/div[2]/div[1]/div/div[1]/div/div[2]/div/div[2]/div/div/div/div/div/div/div[1]/button",
+"Item": "/html/body/div[1]/div/div[2]/div/div/div/div/main/div/div/div/div[3]/div/div/div/div[3]/div[1]/div/div/div[1]/div/div/div[2]/div/div/div/div/div/div/div/div[1]/div/div[1]/div/section/div/div[2]/div[1]/div/div[1]/div/div[3]/div[2]/div/div/div/div/div/div/div[1]/button",
+  
+
+}
